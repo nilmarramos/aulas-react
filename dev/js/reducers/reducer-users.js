@@ -14,6 +14,14 @@ export default function () {
             thumbnail: "http://i.imgur.com/7yUvePI.jpg"
         },
         {
+            id: 4,
+            first: "Nilmar",
+            last: "Ramos",
+            age: 34,
+            description: "Developer React, Redux, Meteor",
+            thumbnail: "http://i.imgur.com/ynRGHJA.jpg"
+        },
+        {
             id: 2,
             first: "Joby",
             last: "Wasilenko",
